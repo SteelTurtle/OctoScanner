@@ -27,8 +27,6 @@ You know the problem: shell scripting should never be used for tasks triggering 
 Not to mention that a software of this kind should be conceived with its specific Server and Client components, right? :)
 Right.
 
-Well, unless some of your project managers have already sold to a customer a scanning solution for remote Windows clients that does not require them to buy a SCOM (System Center Operation Manager) server, because some smartass has guaranteed his/her bosses that "you can do wonders with PowerShell, oh yes"!!
-So somebody walks to your desk and asks if somehow it is possible to repair in 7 days the damages caused by this collective madness; the rest of the story is what you can find here... 
-That was a word of advice on the context in which OctoScanner was born; now take the PSM and decide what to do with it! 
+However you decide to implement the Scanner, you are welcome to change it the way you want... Have fun!
 
 The author.
