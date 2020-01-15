@@ -1,5 +1,5 @@
 # OctoScanner
-A PowerShell module that implements a multi-thread, remote system scanner 
+A PowerShell-based multithreaded remote system scanner 
 OCTOSCANNER version 2.0.2 - last code revision: 14/10/2015. Requires at least PowerShell v.3 to work.
   
   Author: Daniele Mancuso (steelturtle@msn.com)
